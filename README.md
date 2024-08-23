@@ -20,11 +20,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/NandiniVar/moviee_assign.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd moviee_assign
    ```
 3. Install the required dependencies:
    ```bash
